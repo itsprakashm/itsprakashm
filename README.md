@@ -39,10 +39,10 @@ I'm a versatile full-stack developer with 9+ years of professional experience in
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-### Backend:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 ### Frameworks:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF9900?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Zend](https://img.shields.io/badge/Zend-68A646?style=for-the-badge&logo=zend&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases:
