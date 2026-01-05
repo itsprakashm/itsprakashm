@@ -60,9 +60,7 @@ I'm a versatile full-stack developer with 9+ years of professional experience in
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsprakashm&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsprakashm&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsprakashm&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=itsprakashm&theme=dark)
 
 ---
 
