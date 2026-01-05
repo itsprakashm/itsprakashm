@@ -40,9 +40,9 @@ I'm a versatile full-stack developer with 9+ years of professional experience in
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Backend:
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF9900?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks:
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases:
@@ -52,6 +52,7 @@ I'm a versatile full-stack developer with 9+ years of professional experience in
 
 ### DevOps & Tools:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -79,7 +80,7 @@ I'm a versatile full-stack developer with 9+ years of professional experience in
 - **E-Commerce Platforms**: Full-stack development using PHP & React.js
 - **Data Analytics Dashboards**: Real-time monitoring systems with API integration
 - **Trading Signal Systems**: Algorithm-based financial data processing
-- **Content Management Systems**: Custom CMS development using Laravel & Node.js
+- **Content Management Systems**: Custom CMS development using PHP & Go
 
 ---
 
